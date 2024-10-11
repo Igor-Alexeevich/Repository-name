@@ -1,0 +1,22 @@
+
+
+On branch master
+	- мы в ветке мастер
+
+No commits yet
+	- Пока никаких коммитов нет
+
+Untracked files:
+	- Неотслеживаемые файлы:
+
+(use "git add <file>..." to include in what will be committed)
+	- (используйте "git add <файл>...", чтобы включить в то, что будет зафиксировано)
+	
+nothing added to commit but untracked files present (use "git add" to track)
+	- для фиксации ничего не добавлено, но присутствуют неотслеживаемые файлы (используйте "git add" для отслеживания)
+	
+Changes not staged for commit
+	- Изменения, не подготовленные для фиксации
+	
+Changes to be committed:
+	- Изменения, которые необходимо зафиксировать:
